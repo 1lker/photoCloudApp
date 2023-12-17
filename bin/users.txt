@@ -1,0 +1,11 @@
+ilker,dfsdfadf,hellohaaa,123,fedfefefefef,HOBBYIST,mmcdcndkcn@gmail.com
+ilker,yörü,dfghjklfedfd,19,feununvjnrjvr,PROFESSIONAL,mmcdcndkcn@gmail.com
+Emine,Araç,CrazyGirl_Turkey,20,12345678,PROFESSIONAL,mmcdcndkcn@gmail.com
+ilker,ilkerfghjkl,ilker,12555,ilkerilker,HOBBYIST,mmcdcndkcn@gmail.com
+ilker,yörü,1lker,21,1lker,FREE,ilker.07yoru@gmail.com
+dncdnvdv,dvsdmvmdv,dmldmcmvdcd,99,cbdbcbducdcdc,PROFESSIONAL,dc kdcn ckdcd
+hellooo,hello,hello123,199,12345678,HOBBYIST,fenev@gmail.com
+asker,masker,makara,8,fn3f3nfı3f,FREE,katara@ku.edu.tr
+dfghjkl,dfghjk,dfghnjmkö,9,cbejbcjecec,FREE,dfghjkl@ku.edu.tr
+x2vdece,ce323df,evevevevevev,12,vfvfvvrv,HOBBYIST,veveveve@ku.edu.tr
+admin,admin,admin,100,adminpass,ADMIN,admim@ku.edu.tr
