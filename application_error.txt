@@ -1,0 +1,261 @@
+[Thu, 18 May 2023 17:55:00 TRT] [ERROR] Invalid nickname: ilker
+[Thu, 18 May 2023 17:55:00 TRT] [ERROR] Invalid nickname: ilker
+[Thu, 18 May 2023 17:55:00 TRT] [ERROR] Invalid password.
+[Thu, 18 May 2023 17:55:00 TRT] [ERROR] Invalid password.
+[Thu, 18 May 2023 17:55:00 TRT] [ERROR] Invalid age!
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:32:38 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: ilker
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:37:51 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:39:48 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:41:55 TRT] [ERROR] User not found: sdwdw
+[Thu, 18 May 2023 21:41:55 TRT] [ERROR] User not found: sdwdw
+[Thu, 18 May 2023 21:41:55 TRT] [ERROR] User not found: sdwdw
+[Thu, 18 May 2023 21:41:55 TRT] [ERROR] User not found: sdwdw
+[Thu, 18 May 2023 21:43:21 TRT] [ERROR] User not found: kefevev
+[Thu, 18 May 2023 21:43:21 TRT] [ERROR] User not found: kefevev
+[Thu, 18 May 2023 21:43:21 TRT] [ERROR] User not found: feununvjnrjvr
+[Thu, 18 May 2023 21:43:21 TRT] [ERROR] User not found: feununvjnrjvr
+[Thu, 18 May 2023 21:47:46 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:47:46 TRT] [ERROR] User not found: hellohaaa
+[Thu, 18 May 2023 21:52:41 TRT] [ERROR] User not found: dfghjklfedfd
+[Thu, 18 May 2023 21:52:41 TRT] [ERROR] User not found: dfghjklfedfd
+[Thu, 18 May 2023 22:14:49 TRT] [ERROR] User not found: 
+[Thu, 18 May 2023 22:14:49 TRT] [ERROR] User not found: 
+[Thu, 18 May 2023 22:15:21 TRT] [ERROR] Invalid password.
+[Thu, 18 May 2023 22:15:21 TRT] [ERROR] Invalid password.
+[Thu, 18 May 2023 22:15:21 TRT] [ERROR] Invalid age!
+[Thu, 18 May 2023 22:15:21 TRT] [ERROR] Invalid nickname: 
+[Thu, 18 May 2023 22:15:21 TRT] [ERROR] Invalid nickname: 
+[Thu, 18 May 2023 23:01:44 TRT] [ERROR] java.lang.NumberFormatException: For input string: ""
+[Fri, 19 May 2023 00:43:27 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+[Fri, 19 May 2023 00:43:27 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+[Fri, 19 May 2023 00:43:27 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+[Fri, 19 May 2023 00:44:44 TRT] [ERROR] Invalid nickname: ilker
+[Fri, 19 May 2023 00:44:44 TRT] [ERROR] Invalid nickname: ilker
+[Fri, 19 May 2023 00:44:44 TRT] [ERROR] java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+[Fri, 19 May 2023 00:44:44 TRT] [ERROR] java.lang.IllegalArgumentException: adding a window to a container
+[Fri, 19 May 2023 00:49:34 TRT] [ERROR] User not found: vfbvf
+[Fri, 19 May 2023 00:49:34 TRT] [ERROR] User not found: vfbvf
+[Fri, 19 May 2023 00:49:34 TRT] [ERROR] java.lang.IllegalArgumentException: adding a window to a container
+[Fri, 19 May 2023 02:05:39 TRT] [ERROR] Can't read input file!
+[Fri, 19 May 2023 02:05:39 TRT] [ERROR] Can't read input file!
+[Fri, 19 May 2023 02:10:51 TRT] [ERROR] The file /Users/ilkeryoru/eclipse-workspace/PhotoCloud/./images/1.jpg.jpg does not exist.
+[Fri, 19 May 2023 02:10:51 TRT] [ERROR] The file /Users/ilkeryoru/eclipse-workspace/PhotoCloud/./images/first_image.png.jpg does not exist.
+[Fri, 19 May 2023 02:10:51 TRT] [ERROR] The file /Users/ilkeryoru/eclipse-workspace/PhotoCloud/./images/1.jpg.jpg does not exist.
+[Fri, 19 May 2023 02:17:01 TRT] [ERROR] The file /Users/ilkeryoru/eclipse-workspace/PhotoCloud/images/1.jpg does not exist.
+[Fri, 19 May 2023 02:20:32 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "this.photos" is null
+[Fri, 19 May 2023 23:21:01 TRT] [ERROR] User not found: 
+[Fri, 19 May 2023 23:21:01 TRT] [ERROR] User not found: 
+[Fri, 19 May 2023 23:23:57 TRT] [ERROR] User not found: İLKER
+[Fri, 19 May 2023 23:23:57 TRT] [ERROR] User not found: İLKER
+[Sat, 20 May 2023 01:51:16 TRT] [ERROR] java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+[Sat, 20 May 2023 01:51:16 TRT] [ERROR] java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+[Sat, 20 May 2023 01:51:16 TRT] [ERROR] java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+[Sat, 20 May 2023 01:53:07 TRT] [ERROR] java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+[Sat, 20 May 2023 01:54:03 TRT] [ERROR] java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] User not found: 
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] User not found: 
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] Invalid age!
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] Invalid nickname: 
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] Invalid nickname: 
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] User not found: 
+[Sat, 20 May 2023 02:37:58 TRT] [ERROR] User not found: 
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid password.
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid age!
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid nickname: 
+[Sat, 20 May 2023 17:35:12 TRT] [ERROR] Invalid nickname: 
+[Sat, 20 May 2023 17:47:54 TRT] [ERROR] Invalid email format: dc kdcn ckdcd
+[Sat, 20 May 2023 17:47:54 TRT] [ERROR] Invalid email format: dc kdcn ckdcd
+[Sat, 20 May 2023 17:53:37 TRT] [ERROR] Invalid email format: vdvvdvd
+[Sat, 20 May 2023 17:53:37 TRT] [ERROR] Invalid email format: vdvvdvd
+[Sat, 20 May 2023 17:55:24 TRT] [ERROR] Invalid email format: vvevemvmemv
+[Sat, 20 May 2023 17:55:24 TRT] [ERROR] Invalid email format: vvevemvmemv
+[Sat, 20 May 2023 20:23:54 TRT] [ERROR] java.lang.NumberFormatException: For input string: ""
+[Sat, 20 May 2023 20:23:54 TRT] [ERROR] java.lang.NumberFormatException: For input string: ""
+[Sun, 21 May 2023 14:50:39 TRT] [ERROR] FileNotFoundException: users.txt (No such file or directory)
+[Sun, 21 May 2023 14:50:39 TRT] [ERROR] FileNotFoundException: users.txt (No such file or directory)
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid password.
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid password.
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid email format: 
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid email format: 
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid age!
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid nickname: 
+[Sun, 21 May 2023 14:56:23 TRT] [ERROR] Invalid nickname: 
+[Mon, 22 May 2023 01:18:40 TRT] [ERROR] java.lang.IllegalArgumentException: illegal anchor value
+[Mon, 22 May 2023 01:19:58 TRT] [ERROR] User not found: iker
+[Mon, 22 May 2023 01:19:58 TRT] [ERROR] User not found: iker
+[Mon, 22 May 2023 02:13:39 TRT] [ERROR] java.lang.IllegalArgumentException: invalid verticalScrollBarPolicy
+[Mon, 22 May 2023 02:15:13 TRT] [ERROR] java.lang.IllegalArgumentException: adding container's parent to itself
+[Mon, 22 May 2023 02:15:13 TRT] [ERROR] java.lang.IllegalArgumentException: adding container's parent to itself
+[Mon, 22 May 2023 02:15:51 TRT] [ERROR] java.lang.IllegalArgumentException: adding container's parent to itself
+[Mon, 22 May 2023 15:51:50 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "javax.swing.JButton.setHorizontalAlignment(int)" because "this.thumbnailPanel" is null
+[Mon, 22 May 2023 16:07:09 TRT] [ERROR] Invalid password.
+[Mon, 22 May 2023 16:07:09 TRT] [ERROR] Invalid password.
+[Mon, 22 May 2023 17:39:18 TRT] [ERROR] java.util.regex.PatternSyntaxException: Dangling meta character '+' near index 0
++++
+^
+[Mon, 22 May 2023 17:39:18 TRT] [ERROR] java.util.regex.PatternSyntaxException: Dangling meta character '+' near index 0
++++
+^
+[Mon, 22 May 2023 17:39:18 TRT] [ERROR] java.util.regex.PatternSyntaxException: Dangling meta character '+' near index 0
++++
+^
+[Mon, 22 May 2023 17:40:31 TRT] [ERROR] java.util.regex.PatternSyntaxException: Dangling meta character '+' near index 0
++
+^
+[Mon, 22 May 2023 18:12:32 TRT] [ERROR] Invalid password.
+[Mon, 22 May 2023 18:12:32 TRT] [ERROR] Invalid password.
+[Mon, 22 May 2023 22:07:34 TRT] [ERROR] java.lang.NumberFormatException: For input string: "cfevemv evevev ev e vev\n\nvev\nev\nev\ne\nve\nveveve"
+[Mon, 22 May 2023 23:23:35 TRT] [ERROR] java.lang.ClassCastException: class sun.awt.image.ToolkitImage cannot be cast to class java.awt.image.BufferedImage (sun.awt.image.ToolkitImage and java.awt.image.BufferedImage are in module java.desktop of loader 'bootstrap')
+[Mon, 22 May 2023 23:23:35 TRT] [ERROR] java.lang.ClassCastException: class sun.awt.image.ToolkitImage cannot be cast to class java.awt.image.BufferedImage (sun.awt.image.ToolkitImage and java.awt.image.BufferedImage are in module java.desktop of loader 'bootstrap')
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: helloo
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: helloo
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: hello
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: hello
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: hellooo
+[Mon, 22 May 2023 23:26:57 TRT] [ERROR] User not found: hellooo
+[Mon, 22 May 2023 23:48:55 TRT] [ERROR] java.awt.IllegalComponentStateException: contentPane cannot be set to null.
+[Tue, 23 May 2023 00:21:21 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 00:21:21 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 12:57:23 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:06:49 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:06:49 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:06:49 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:18:35 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:22:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:23:41 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:23:41 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:23:41 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:23:41 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:23:41 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:29:55 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 13:29:55 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:43:39 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:45:50 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:47:15 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:47:15 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:47:15 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:47:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:48:45 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:49:31 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:50:44 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 13:53:38 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 14:00:55 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 14:12:44 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:12:44 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:16:02 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 14:16:02 TRT] [ERROR] Can't read input file!
+[Tue, 23 May 2023 16:01:27 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getScaledInstance(int, int, int)" because "originalImage" is null
+[Tue, 23 May 2023 16:01:27 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getScaledInstance(int, int, int)" because "originalImage" is null
+[Tue, 23 May 2023 16:07:36 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getScaledInstance(int, int, int)" because "originalImage" is null
+[Tue, 23 May 2023 16:08:16 TRT] [ERROR] java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getScaledInstance(int, int, int)" because "originalImage" is null
+[Tue, 23 May 2023 17:06:32 TRT] [ERROR] java.lang.NumberFormatException: For input string: "dvdevhce"
+[Tue, 23 May 2023 17:06:32 TRT] [ERROR] java.lang.NumberFormatException: For input string: "dvdevhce"
+[Tue, 23 May 2023 19:34:09 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 19:34:09 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 20:10:05 TRT] [ERROR] Invalid password.
+[Tue, 23 May 2023 20:10:05 TRT] [ERROR] Invalid password.
+[Wed, 24 May 2023 14:42:23 TRT] [ERROR] You don't have permission to apply this filter. :Edge Detection Filter
+[Wed, 24 May 2023 14:42:23 TRT] [ERROR] You don't have permission to apply this filter. :Edge Detection Filter
+[Wed, 24 May 2023 14:42:23 TRT] [ERROR] You don't have permission to apply this filter. :Grayscale Filter
+[Wed, 24 May 2023 16:31:26 TRT] [ERROR] Error occurred while uploading photo: crs/profilePics/OGRENCI-SATICI-HESAP.png
+[Wed, 24 May 2023 16:37:38 TRT] [ERROR] Error occurred while uploading photo: profilePics/ilkgorsel.png
+[Wed, 24 May 2023 17:35:03 TRT] [ERROR] Error occurred while reading from profilePics.txt: src/profilePics/profilePics.txt
+[Wed, 24 May 2023 17:35:03 TRT] [ERROR] Error occurred while writing to profilePics.txt: src/profilePics/profilePics.txt
+[Wed, 24 May 2023 17:35:03 TRT] [ERROR] Error occurred while reading from profilePics.txt: src/profilePics/profilePics.txt
+[Wed, 24 May 2023 18:03:59 TRT] [ERROR] You don't have permission to apply this filter. :Grayscale Filter
+[Wed, 24 May 2023 18:03:59 TRT] [ERROR] You don't have permission to apply this filter. :Grayscale Filter
+[Wed, 24 May 2023 18:03:59 TRT] [ERROR] You don't have permission to apply this filter. :Edge Detection Filter
+[Wed, 24 May 2023 20:37:33 TRT] [ERROR] Invalid password.
+[Wed, 24 May 2023 20:37:33 TRT] [ERROR] Invalid password.
+[Wed, 24 May 2023 23:10:00 TRT] [ERROR] You don't have permission to apply this filter. :Grayscale Filter
+[Wed, 24 May 2023 23:10:00 TRT] [ERROR] You don't have permission to apply this filter. :Edge Detection Filter
+[Thu, 25 May 2023 03:08:02 TRT] [ERROR] Invalid password.
+[Thu, 25 May 2023 03:08:02 TRT] [ERROR] Invalid password.
+[Thu, 25 May 2023 09:21:49 TRT] [ERROR] You don't have permission to apply this filter. :Edge Detection Filter
+[Thu, 25 May 2023 10:56:42 TRT] [ERROR] java.lang.NumberFormatException: For input string: "12555uuh"
+[Thu, 25 May 2023 11:00:03 TRT] [ERROR] java.lang.NumberFormatException: For input string: "12555uuh"
+[Thu, 25 May 2023 11:00:03 TRT] [ERROR] java.awt.IllegalComponentStateException: contentPane cannot be set to null.
+[Thu, 25 May 2023 11:02:46 TRT] [ERROR] User not found: ilker
+[Thu, 25 May 2023 11:02:46 TRT] [ERROR] User not found: ilker
+[Thu, 25 May 2023 12:21:51 TRT] [ERROR] Invalid password.
+[Thu, 25 May 2023 12:21:51 TRT] [ERROR] Invalid password.
